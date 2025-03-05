@@ -1,13 +1,15 @@
 ## Hi there 👋 I am Saiful Islam
 ### About me
 
-🌱 I’m currently learning Machine Learning
-
-👯 I’m looking to collaborate on end-to-end Machine Learning Projects
-
-💬 Ask me about Machine Learning
-
-📫 How to reach me: saifulislam003244@gmail.com
+  🌱 I’m currently learning on Data Science 
+  
+  👯 I’m looking to collaborate on Data Science
+  
+  💬 Ask me about Machine Learning
+  
+  📫 How to reach me: saifulislam003244@gmail.com
+  
+  :smiley: Happy Learning
 
 😄 Pronouns: He/Him
 
@@ -20,11 +22,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saiful0044)
 
-- 🌱 I’m currently learning on Data Science 
-- 👯 I’m looking to collaborate on Data Science
-- 💬 Ask me about Machine Learning
-- 📫 How to reach me: saifulislam003244@gmail.com
-- :smiley: Happy Learning
+
 
 <!--
 **Saiful0044/saiful0044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
